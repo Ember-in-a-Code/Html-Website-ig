@@ -1,0 +1,51 @@
+h1{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-family: verdana;
+    background-color: lightcoral;
+    border-width: 5px;
+    max-width: 30%;
+    position:relative;
+    Left: 500px;
+
+}
+
+h2{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-family: verdana;
+    font-size: 150%;
+    background-color: lightcoral;
+    border-width: 5px;
+    max-width: 25%;
+}
+
+img{
+    height: 30%;
+    width: 30%;
+    position:relative;
+    float: right;
+
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+}
+
+footer{
+    text-align: bottom;
+    text-align: center;
+    position: relative;
+    top: 225px;
+    
+}
+
+#grad1{
+    height: 728px;
+    background-color: #4169E1; /*for browsers that dont support gradients*/
+    background-image: linear-gradient(to bottom right,#FFD1B9,#FFB74D,#FF6E6A,#8E94F2,#5EC8E3 );
+    background-repeat: no-repeat;
+}
